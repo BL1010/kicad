@@ -1,0 +1,34 @@
+Info: Processing symbol 'C1:'.
+Info: Processing symbol 'D1:'.
+Info: Processing symbol 'R1:'.
+Info: Processing symbol 'R3:'.
+Info: Processing symbol 'RV1:'.
+Info: Processing symbol 'U1:Package_SO:SOIC-8_3.9x4.9mm_P1.27mm'.
+Added U1 (footprint 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm').
+Changed REF** reference designator to U1.
+Changed U1 value from SOIC-8_3.9x4.9mm_P1.27mm to ICM7555xB.
+Updated U1 symbol association from  to /3956f0d5-3f51-40f5-9b45-a786bb6f665f.
+Updated U1 properties.
+Add net GND.
+Connected U1 pin 1 to GND.
+Add net Net-(U1-TR).
+Connected U1 pin 2 to Net-(U1-TR).
+Add net Net-(D1-A).
+Connected U1 pin 3 to Net-(D1-A).
+Add net Net-(U1-R).
+Connected U1 pin 4 to Net-(U1-R).
+Add net unconnected-(U1-CV-Pad5).
+Connected U1 pin 5 to unconnected-(U1-CV-Pad5).
+Add net unconnected-(U1-THR-Pad6).
+Connected U1 pin 6 to unconnected-(U1-THR-Pad6).
+Add net Net-(U1-DIS).
+Connected U1 pin 7 to Net-(U1-DIS).
+Connected U1 pin 8 to Net-(U1-R).
+Error: Cannot add C1 (no footprint assigned).
+Error: Cannot add D1 (no footprint assigned).
+Error: Cannot add R1 (no footprint assigned).
+Error: Cannot add R3 (no footprint assigned).
+Error: Cannot add RV1 (no footprint assigned).
+
+
+Info: Total warnings: 0, errors: 5.
